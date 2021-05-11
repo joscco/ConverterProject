@@ -1,5 +1,4 @@
 public class THOMessageConverter {
 
-    // This should be implemented
-    // public CusMessage convert(...) { ... }
+    // Implement here something like public CusMessage convert(...) { ... }
 }
